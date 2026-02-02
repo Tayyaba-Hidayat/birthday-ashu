@@ -1,0 +1,8 @@
+{
+  "name": "Gemini OmniStudio",
+  "description": "A high-end creative suite powered by Gemini models for image generation, video creation, real-time voice interaction, and multi-modal editing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
